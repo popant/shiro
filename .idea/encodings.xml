@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/popant/shiro/controller/LoginController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/popant/shiro/controller/TestController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/popant/shiro/controller/UserController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/popant/shiro/mapper/TestMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/popant/shiro/po/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/popant/shiro/service/ITestService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/popant/shiro/service/impl/TestImplServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/popant/shiro/util/QnCustomObjectMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/datasource.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/servlet-context.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/test.jsp" charset="UTF-8" />
+  </component>
+</project>
